@@ -373,6 +373,7 @@ const Markdown = styled.div`
       padding-left: 1rem;              
       white-space: normal;
     }
+      
     li{
        line-height: 1.625;
     }
